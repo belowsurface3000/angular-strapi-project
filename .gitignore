@@ -1,0 +1,4 @@
+.env
+.env.local
+environment.ts
+node_modules
